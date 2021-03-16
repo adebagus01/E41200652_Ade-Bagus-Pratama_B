@@ -1,3 +1,3 @@
-Nama : Ade Bagus Pratama
-NIM  : E41200652
-Gol  : TIF B
+Ade Bagus Pratama
+E41200652
+TIF B
