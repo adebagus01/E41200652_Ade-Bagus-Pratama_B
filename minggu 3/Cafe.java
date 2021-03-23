@@ -20,7 +20,6 @@ public class Cafe {
         int minuman;
         Scanner scan = new Scanner(System.in);
         
-        //headet
         System.out.println("      CAFE CERIA");
         System.out.println("     ANEKA MINUMAN");
         System.out.println("------------------------");
